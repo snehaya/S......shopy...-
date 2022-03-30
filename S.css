@@ -1,0 +1,13 @@
+body {
+text-align:center;
+}
+.a {
+margin-left:0;
+width:100%;
+color:red;
+}
+.b {
+margin-right:0;
+width:100%;
+color:blue;
+}
